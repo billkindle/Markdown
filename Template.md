@@ -1,35 +1,33 @@
-# Title
+# Header 1
 
-## Author
+## Header 2
 
-Your_Name
+### Header 3
 
-Date: [mm/dd/yyyy]
+- bullet list item
+  - sub item
+    - sub item
 
-### Synopsis
+**Test bold**
+
+*Test italcis*
+
+~superscript~
+
+~~strikethrough~~
+
+`code block` 
+
+1. number list
+2. number list
+3. number list
+
+Just a horizontal line below
 
 ---
-lorem Ipsum
 
-### Procedure
+[ ]     Checkbox unchecked
 
----
-!!! Note
+[x]     checkbox checked
 
-    This is a test note.
-    There's lost of test in here.
-
-1. list
-2. list
-3. list
-
-!!! Warning
-
-    **Do not*** skip this part!
-
-:[ ]    checkbox
-
-:[ ]    Checkbox
-
-
-@---: To increase the readability of comments or descriptions, see [this page in the github wiki](https://github.com/Codewars/codewars.com/wiki/Markdown-Formatting).
+Special character &amp; &copy;
