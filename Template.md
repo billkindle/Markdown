@@ -16,7 +16,12 @@
 
 ~~strikethrough~~
 
-`code block` 
+`inline code block` 
+
+```powershell
+#PowerShell code block
+get-service
+```
 
 1. number list
 2. number list
@@ -31,3 +36,8 @@ Just a horizontal line below
 [x]     checkbox checked
 
 Special character &amp; &copy;
+
+Emoji's
+
+:100:
+:+1:
